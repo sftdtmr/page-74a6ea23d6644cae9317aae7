@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "16be6d4d56adff040f70ed31",
+  "owner": "sftdtmr",
+  "repo": "page-74a6ea23d6644cae9317aae7",
+  "title": "宝可梦(Pokemon)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "74a6ea23d6644cae9317aae7",
+      "a": "宝可梦(Pokemon)",
+      "b": "稳定全球clash加速器",
+      "entity": "宝可梦(Pokemon)",
+      "brand": "宝可梦(Pokemon)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "2936bce0288dd4b53754049169c42d025707d5fe309498f1e9717766cd6d72cb",
+      "content": {
+        "primary_entity": "宝可梦(Pokemon)",
+        "keyword1": "宝可梦(Pokemon)",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择客户端，Windows、macOS、iOS、Android 与路由器各有适配方案，参考客户端文档完成订阅导入。",
+          "AI_CLIENTS_TITLE": "设备与客户端选择",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求挑选套餐，按客户端文档配置订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "完成订阅配置",
+          "AI_DESCRIPTION": "，围绕设备选择与订阅配置展开，基础版适合 3 台设备轻度使用，旗舰版覆盖 5 台设备并优化游戏线路，团队版可满足 20 台设备的高带宽需求。",
+          "AI_FEATURES_INTRO": "从设备数量、流量消耗与订阅周期三个角度判断更适合的套餐。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量、3 台设备，适合手机与笔记本轻度使用。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB 流量、5 台设备，IPLC 专线对游戏延迟更友好。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB 流量、20 台设备，适合多终端协同场景。",
+          "AI_FEATURE_TITLE_1": "设备数量与流量",
+          "AI_FEATURE_TITLE_2": "线路与场景",
+          "AI_FEATURE_TITLE_3": "多人协作",
+          "AI_GUIDE_INTRO": "先确定常用设备数量，再核对套餐权益，最后按客户端文档配置订阅。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "宝可梦(Pokemon)加速服务提供基础版、旗舰版与团队版三档套餐，覆盖不同设备数量与流量需求，按客户端文档配置订阅后即可使用。",
+          "AI_HERO_SUBTITLE": "多设备订阅与流量选择",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖 3 至 20 台设备",
+          "AI_HIGHLIGHT_2": "月付与年付灵活选择",
+          "AI_HIGHLIGHT_3": "IPLC 专线优化游戏延迟",
+          "AI_PLANS_INTRO": "基础版每月 100GB 流量、3 台设备，旗舰版每月 300GB 流量、5 台设备，团队版每月 1000GB 流量、20 台设备。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据常用设备数量与月均流量，在基础版、旗舰版或团队版中选择。",
+          "AI_STEP_TEXT_2": "查看套餐是否满足流媒体解锁与游戏加速需求，确认设备适配范围。",
+          "AI_STEP_TEXT_3": "按对应客户端文档导入订阅链接，完成设备端配置后连接使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "宝可梦(Pokemon)全球加速",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备同时在线，适合手机与电脑组合使用；旗舰版 5 台，覆盖手机、平板与主机；团队版 20 台，适合多人或小型工作室统一订阅。",
+          "AI_FAQ_ANSWER_2": "旗舰版提供 IPLC 专线节点，针对游戏加速与低延迟场景优化；基础版为普通线路节点池，适合日常浏览与流媒体；团队版可定制企业路由。",
+          "AI_FAQ_ANSWER_3": "基础版每月 100GB 适合单人轻量使用；旗舰版 300GB 适合多设备与常看流媒体；团队版 1000GB 适合多人共享或高流量需求。",
+          "AI_FAQ_ANSWER_4": "年付比月付更省，基础版年付 150 元、旗舰版 350 元、团队版 850 元，折算下来每月支出低于按月订阅。",
+          "AI_FAQ_ANSWER_5": "注册后按客户端文档导入订阅链接，在所选客户端中启用即可。不同系统配置步骤略有差异，建议对照对应客户端的说明操作。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "一个订阅可以同时在几台设备上使用？",
+          "AI_FAQ_QUESTION_2": "旗舰版和基础版的线路有什么区别？",
+          "AI_FAQ_QUESTION_3": "每月流量不够用可以升级套餐吗？",
+          "AI_FAQ_QUESTION_4": "年付和月付哪个更划算？",
+          "AI_FAQ_QUESTION_5": "购买后如何导入订阅开始使用？",
+          "AI_FAQ_TITLE": "订阅常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--vpn-3f0ht54c.com",
+    "host": "xn--vpn-3f0ht54c.com"
+  },
+  "file_hashes": {
+    "index.html": "011d32f0b5043517a359d4e92e83ddece14cfe9c1ebfcfa3f70e1d6cea864e21",
+    "sitemap.xml": "5e8aa5a5750c001cb5ac7e71d303dfcf10060f51b1b1fb8c60ebccc772b3a448",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "4e2ba1a28e26ce387a0a1763b4466a80fc0c31caea16e447e03bdf65df3fac5c",
+    "robots.txt": "d140a4f26d926cf2744a14be5f1e79e7ed3976d832c09aa1a83e1af6cc73df2a",
+    "7975239ceceb40f22f51fc2f3ef8e1e4.txt": "5a667f4086917a469356e969d6dbb84cd879d161f4bdfaa637d72e3f63f5d500"
+  },
+  "revision": "ee4fc76b9db9982a2d65d47cd404bba529c4eb9e70b2dca40ae1bad8cf13c7ad"
+}
